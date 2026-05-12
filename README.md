@@ -94,6 +94,6 @@ Multiplayer quiz game platform built with a team to let users answer custom ques
 
 ## Connect
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Resume: [Add your resume link here]
-- Email: [Add your professional email here]
+- LinkedIn: [www.linkedin.com/in/abhikshil]
+- Resume: [[View Resume](https://docs.google.com/document/d/1SDW5nDcSD2BnAa5jYsonARLR2pA-qh6MWCTC7A3YGlE/edit?usp=sharing)]
+- Email: [abhikcshil@outlook.com]
